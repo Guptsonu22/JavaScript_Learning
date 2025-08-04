@@ -24,3 +24,32 @@ const id = Symbol('123')
 
  console.log(typeof bigNumber);
  console.log(typeof outsideTemp);
+
+
+ //**********************************//
+
+ //STACK AND HEAP MEMORY
+
+ //Stack, (Primitive), Heap(Non-Primitive)
+
+ let myYoutubename = "sonukumardotcom"
+
+ let anothername = myYoutubename
+ anothername = "chaiaurcode"
+
+ console.log(myYoutubename);
+ console.log(anothername);
+
+ let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+ }
+
+ let userTwo = userOne
+
+ userTwo.email = "sonu@google.com"
+
+ console.log(userOne.email);
+ console.log(userTwo.email);
+
+ 

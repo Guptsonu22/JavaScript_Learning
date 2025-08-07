@@ -1,0 +1,1 @@
+class_friends.push(fav_teacher)

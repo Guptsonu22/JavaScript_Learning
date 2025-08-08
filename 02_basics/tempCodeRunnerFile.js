@@ -1,1 +1,2 @@
-class_friends.push(fav_teacher)
+
+// console.log(JsUser.age)

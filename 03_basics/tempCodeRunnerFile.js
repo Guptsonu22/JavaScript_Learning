@@ -1,1 +1,3 @@
-console.log("INNER: ", a);
+user.welcomeMessage()
+user.username = "kumar"
+user.welcomeMessage()

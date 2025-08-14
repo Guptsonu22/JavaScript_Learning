@@ -7,7 +7,7 @@
 //     break;
 // }
 
-const month = 3      // agar string me lena ho tan case me string lenge 
+const month = 3      // agar string me lena ho tab case me string lenge 
 
 switch (month) {
     case 1 :
